@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="login">Войти</string>
+    <string name="itemlist">Список товаров</string>
+    <string name="image_string">https://homepages.cae.wisc.edu/~ece533/images/tulips.png</string>
+    <string name="status">Статус</string>
+    <string name="inStock">В наличии</string>
+    <string name="price">Цена</string>
+    <string name="item_name">Название товара</string>
+    <string name="description">Описание</string>
+    <string name="item_purchased">Покупка завершена</string>
+    <string name="you_purchase_item">Вы успешно купили товар:</string>
+    <string name="ok">OK</string>
+    <string name="Buy">Купить</string>
+    <string name="back">Назад</string>
+</resources>
